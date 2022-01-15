@@ -1,0 +1,45 @@
+body::before {
+  display: block;
+  content: '';
+  height: 2rem;
+}
+
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
+
+#foto {
+  clip-path: circle();
+}
+
+#navbardiv {
+  background-color: #222222;
+}
+
+#bootstrap2 {
+  width: 1.5rem;
+  height: 1.5rem;
+  margin-bottom: 5px;
+}
+
+#home {
+  background-color: #222222;
+}
+
+#texto {
+  color: #8257e5;
+}
+
+#botao {
+  background-color: #8257e5;
+}
+
+#aprendizados {
+  list-style: none;
+}
+
+#lista {
+  list-style: none;
+}
